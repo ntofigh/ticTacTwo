@@ -12,6 +12,9 @@
 		293BAA331D2841FD00BE58A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 293BAA311D2841FD00BE58A1 /* Main.storyboard */; };
 		293BAA351D2841FD00BE58A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 293BAA341D2841FD00BE58A1 /* Assets.xcassets */; };
 		293BAA381D2841FD00BE58A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 293BAA361D2841FD00BE58A1 /* LaunchScreen.storyboard */; };
+		293BAA421D28420A00BE58A1 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 293BAA3F1D28420A00BE58A1 /* board.png */; };
+		293BAA431D28420A00BE58A1 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 293BAA401D28420A00BE58A1 /* cross.png */; };
+		293BAA441D28420A00BE58A1 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 293BAA411D28420A00BE58A1 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		293BAA341D2841FD00BE58A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		293BAA371D2841FD00BE58A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		293BAA391D2841FD00BE58A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		293BAA3F1D28420A00BE58A1 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		293BAA401D28420A00BE58A1 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		293BAA411D28420A00BE58A1 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				293BAA2D1D2841FD00BE58A1 /* AppDelegate.swift */,
 				293BAA2F1D2841FD00BE58A1 /* ViewController.swift */,
 				293BAA311D2841FD00BE58A1 /* Main.storyboard */,
+				293BAA3F1D28420A00BE58A1 /* board.png */,
+				293BAA401D28420A00BE58A1 /* cross.png */,
+				293BAA411D28420A00BE58A1 /* nought.png */,
 				293BAA341D2841FD00BE58A1 /* Assets.xcassets */,
 				293BAA361D2841FD00BE58A1 /* LaunchScreen.storyboard */,
 				293BAA391D2841FD00BE58A1 /* Info.plist */,
@@ -122,6 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				293BAA431D28420A00BE58A1 /* cross.png in Resources */,
+				293BAA421D28420A00BE58A1 /* board.png in Resources */,
+				293BAA441D28420A00BE58A1 /* nought.png in Resources */,
 				293BAA381D2841FD00BE58A1 /* LaunchScreen.storyboard in Resources */,
 				293BAA351D2841FD00BE58A1 /* Assets.xcassets in Resources */,
 				293BAA331D2841FD00BE58A1 /* Main.storyboard in Resources */,
